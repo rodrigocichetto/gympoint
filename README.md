@@ -31,7 +31,7 @@ Durante o desafio construi o app mobile da aplicação Gympoint utilizando React
 
 ## 🎨 Layout
 
-O layout do desafio está em anexo([frontend](Gympoint.sketch), [mobile](Gympoint.sketch)) como um arquivo `.sketch`.
+O layout do desafio está em anexo([frontend](https://github.com/rodrigocichetto/bootcamp-gostack-desafio-09/blob/master/Gympoint.sketch), [mobile](https://github.com/rodrigocichetto/bootcamp-gostack-desafio-10/blob/master/Gympoint.sketch)) como um arquivo `.sketch`.
 
 Caso esteja usando OS X / Windows você pode abrir esse arquivo com um software chamado [Zeplin](https://zeplin.io).
 
@@ -50,9 +50,9 @@ yarn
 npm install
 ```
 
-Configure suas váriaveis de ambiente `.env` a partir do arquivo [.env.example](backend/.env.example). Obs.: As configurações de Database, Mongo e Redis do `.env.example` já estão setadas para os containers do `docker`
+Configure suas váriaveis de ambiente `.env` a partir do arquivo [.env.example](https://github.com/rodrigocichetto/bootcamp-gostack-desafio-03/blob/master/.env.example). Obs.: As configurações de Database, Mongo e Redis do `.env.example` já estão setadas para os containers do `docker`
 
-Inicie os containers a partir do [docker-compose.yml](backend/docker-compose.yml) executando o comando `docker-compose up -d`
+Inicie os containers a partir do [docker-compose.yml](https://github.com/rodrigocichetto/bootcamp-gostack-desafio-03/blob/master/docker-compose.yml) executando o comando `docker-compose up -d`
 
 Execute as `migrations` e `seeds` do Sequelize
 
