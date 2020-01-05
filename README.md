@@ -6,7 +6,7 @@
   Desafio Final: Gympoint
 </h3>
 
-<blockquote align="center">“O tempo que leva para realizar seus sonhos vai passar de qualquer forma”!</blockquote>
+<blockquote align="center">“Decidir o que não fazer é tão importante quanto decidir o que fazer”!</blockquote>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rodrigocichetto/gympoint?color=%2304D361" />
